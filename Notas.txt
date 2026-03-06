@@ -1,0 +1,21 @@
+To Do
+- Consumir API de users **
+- Generar conexión con la base de datos **
+- Crear tablas en DB *
+    - Crear tabla principal **
+    - Crear tabla log
+- Insertar los datos en la tabla correspondiente
+- Insertar log de los registros en tabla correspondiente
+- Enviar mail con información sobre la insertacion de los datos
+- Enviar mail con un exportable a excel de la tabla de los datos
+- Configurar variables de entorno
+
+Preguntas
+
+
+Comentarios
+
+
+Proceso de programación
+1. Desarrollo inicial: Manejo de errores básicos para no tener errores mudos durante el desarrollo
+2. Refactorización a producción: Aquí se pulen los mensajes, se agrega logging y se separan las excepciones
